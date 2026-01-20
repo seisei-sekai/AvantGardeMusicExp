@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# WordPress specific (if regenerating from scratch)
+.htaccess
+wp-config.php
+error_log
+
+# Node modules (if using any build tools)
+node_modules/
+package-lock.json
+
+# Python (if using local server)
+__pycache__/
+*.pyc
+*.pyo
+
