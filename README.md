@@ -1,8 +1,21 @@
 # Benny Zhang | 张世成 - Personal Website
 
-[![Live Website](https://img.shields.io/badge/website-live-brightgreen)](https://shichengzhang.web.illinois.edu/)
+<div align="center">
 
-This repository contains the complete static mirror of Benny Zhang's personal website, originally hosted at [shichengzhang.web.illinois.edu](https://shichengzhang.web.illinois.edu/).
+## 🌐 Original Website
+
+### **[https://shichengzhang.web.illinois.edu/](https://shichengzhang.web.illinois.edu/)**
+
+[![Live Website](https://img.shields.io/badge/🌐_Visit_Original_Site-shichengzhang.web.illinois.edu-blue?style=for-the-badge)](https://shichengzhang.web.illinois.edu/)
+[![Website Status](https://img.shields.io/badge/status-live-brightgreen?style=for-the-badge)](https://shichengzhang.web.illinois.edu/)
+
+</div>
+
+---
+
+## 📖 About This Repository
+
+This repository contains the complete static mirror of Benny Zhang's personal website, originally hosted at **[shichengzhang.web.illinois.edu](https://shichengzhang.web.illinois.edu/)**.
 
 ## About
 
@@ -132,7 +145,7 @@ The latest CV (as of November 2021) is available at:
 ## Credits
 
 - **Website Owner**: Benny Zhang (张世成)
-- **Original URL**: [shichengzhang.web.illinois.edu](https://shichengzhang.web.illinois.edu/)
+- **🔗 Original Website**: **[https://shichengzhang.web.illinois.edu/](https://shichengzhang.web.illinois.edu/)**
 - **Theme**: [Theme Horse](https://www.themehorse.com/)
 - **Powered by**: [WordPress](https://wordpress.org/)
 
@@ -146,4 +159,12 @@ For inquiries, please visit the [About page](index.html?p=163.html) on the websi
 
 ---
 
+<div align="center">
+
+### 🌟 Original Website
+
+**Visit the live site at: [https://shichengzhang.web.illinois.edu/](https://shichengzhang.web.illinois.edu/)**
+
 *This repository was created on January 20, 2026 as a static mirror of the original WordPress website.*
+
+</div>
